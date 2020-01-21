@@ -1,4 +1,4 @@
 Branches:
 unsuccessful merge
 pull 1
-here is conflict
+pull 2
